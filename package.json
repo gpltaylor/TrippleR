@@ -10,6 +10,18 @@
     "React-Router",
     "Redux"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gpltaylor/TrippleR.git"
+  },
   "author": "GPLTaylor",
-  "license": "ISC"
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-router": "^4.0.0-alpha.4",
+    "redux": "^3.6.0",
+    "react-redux": "^4.4.5",
+    "redux-thunk": "^2.1.0"
+  }
 }
