@@ -1,0 +1,15 @@
+{
+  "name": "trippler",
+  "version": "0.0.1",
+  "description": "A React Router Redux implementation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React-Router",
+    "Redux"
+  ],
+  "author": "GPLTaylor",
+  "license": "ISC"
+}
