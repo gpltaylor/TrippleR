@@ -14,9 +14,7 @@ Bridges the gap between React Router and Redux. It allows you to replay state ov
 Import the required modules
 
 ```
-import TrippleR from "trippler";
-import rrrMiddleware from "trippler";
-import rrrReducer from "trippler";
+import { TrippleR, rrrMiddleware, rrrReducer} from "trippler";
 ```
 
 Add rrrMiddleware and rrrReducer to your Redux store.
